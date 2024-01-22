@@ -21,7 +21,7 @@ from colorama import Fore, Back, Style
 
 bot = discord.Bot()
 
-token = "MTE5ODk0MTI2NjU0OTkzNjEyOA.GLzzQ7.FKWrsahARrkpi66fAoraRzbCSYxvnAP6x0vLnc"
+token = ""
 
 check_modules()
 
